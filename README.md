@@ -22,6 +22,12 @@ If you don't need to connect to a computer you can just use the timelapse option
 
 So this project was made because I wanted a top down point of view for when I'm working on something and need to either show it to my friends in Discord or for when I needed to record what I was doing. I thought that this was a good opportunity to learn some more CAD while at the same time making something that I will actually use. You may be asking why not just use any other hook or holder like thing to keep the phone there. Well I had a shelf already wall mounted at the perfect height but I needed my phone to be further over the desk. So I decided to make something that attaches to the shelf and extends the reach. It also doesn't look too bad either while keeping the phone perfectly steady
 
+## Zine page
+
+For Fallout I was required to make a Zine page of this project. Here it is!
+
+![Zine page of the project.](./Media/ZinePage.png)
+
 ## Acknowledgements
 
 This was a project made for [Hack Club Fallout](fallout.hackclub.com). It was a project first meant only for personal use but then kind of expanded upon to make it more of a full project. This was one of my first projects for Fallout.
