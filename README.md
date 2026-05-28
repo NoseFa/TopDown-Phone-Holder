@@ -12,7 +12,7 @@ After getting or editing the files to get the right 3d file you can print it. My
 
 If you have a 3d printer like I have you can just print this yourself. If not you can use a service like JLC3DP for printing this. You can see in the [BOM.csv](./BOM.csv) the price it would have cost me if I had used a service like this. You may also want to consider checking if there is a public makerspace or library that has a public 3D printer you can use.
 
-After printing it's just as simple as mounting the holder and placing the phone on the holder. If you want to connect your phone to a computer and OBS you can check the next section
+After printing it's just as simple as mounting the holder and placing the phone on the holder. If you want to connect your phone to a computer and OBS you can check the next section. For mounting the holder to the wall you can use any M3.5 drywall screws. I have attached [an example from aliexpress]() but you probably have something like it laying around or can get from a local hardwares store also. The head should be 6mm in diameter to fit in the countersink properly.
 
 ## Software
 

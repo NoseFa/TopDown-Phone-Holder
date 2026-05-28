@@ -10,7 +10,7 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 'PhoneHolderShelfVersion.step',
-/* time_stamp */ '2026-05-16T12:39:27+03:00',
+/* time_stamp */ '2026-05-28T20:38:38+03:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20.1',
@@ -11777,16 +11777,16 @@ SOLID_ANGLE_UNIT()
 #11688=PRODUCT_DEFINITION_SHAPE('',$,#11691);
 #11689=SHAPE_REPRESENTATION('',(#7511),#11681);
 #11690=PRODUCT_DEFINITION_CONTEXT('part definition',#11695,'design');
-#11691=PRODUCT_DEFINITION('PhoneHolder','PhoneHolder v16',#11692,#11690);
+#11691=PRODUCT_DEFINITION('PhoneHolder','PhoneHolder v23',#11692,#11690);
 #11692=PRODUCT_DEFINITION_FORMATION('',$,#11697);
-#11693=PRODUCT_RELATED_PRODUCT_CATEGORY('PhoneHolder v16',
-'PhoneHolder v16',(#11697));
+#11693=PRODUCT_RELATED_PRODUCT_CATEGORY('PhoneHolder v23',
+'PhoneHolder v23',(#11697));
 #11694=APPLICATION_PROTOCOL_DEFINITION('international standard',
 'automotive_design',2009,#11695);
 #11695=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #11696=PRODUCT_CONTEXT('part definition',#11695,'mechanical');
-#11697=PRODUCT('PhoneHolder','PhoneHolder v16',$,(#11696));
+#11697=PRODUCT('PhoneHolder','PhoneHolder v23',$,(#11696));
 #11698=PRESENTATION_STYLE_ASSIGNMENT((#11705));
 #11699=PRESENTATION_STYLE_ASSIGNMENT((#11706));
 #11700=PRESENTATION_STYLE_ASSIGNMENT((#11707));
