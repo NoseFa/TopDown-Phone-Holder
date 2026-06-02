@@ -9,8 +9,8 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'PhoneHolderWallmountableVersion.step',
-/* time_stamp */ '2026-06-02T19:46:27+03:00',
+/* name */ 'PhoneHolderShelfmountableVersion.step',
+/* time_stamp */ '2026-06-02T19:45:34+03:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20.1',
