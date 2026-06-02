@@ -2,7 +2,7 @@
 
 ![3D render of the project](./Media/PhoneHolderPicture.png)
 
-It's a simple personal project made just to hold my phone and film top down timelapses. I have a shelf in my room mounted above my desk and I made a simple holder that clamps to the shelf and holds the phone at the right angle. I also made a wall mountable version to be used else where and as a learning project. Even though this project was made mostly for me it could be replicated and used by anyone even for a different use case since this is pretty much just a simple holder for anything. 
+It's a simple personal project made just to hold my phone and film top down timelapses. I have a shelf in my room mounted above my desk and I made a simple holder that clamps to the shelf and holds the phone at the right angle. I also made a wall mountable version to be used else where and as a learning project. Even though this project was made mostly for me it could be replicated and used by anyone even for a different use case since this is pretty much just a simple holder for anything.
 
 ## Assembly / Build guide
 
